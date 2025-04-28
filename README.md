@@ -11,6 +11,10 @@ This is a simple and fun two-player game built using HTML, CSS, and JavaScript. 
 
 4.Simple, clean, and responsive design
 
+
+
+![Screenshot 2025-04-28 123706](https://github.com/user-attachments/assets/4105fc15-adbe-4db6-b439-1df69ec6b679)
+
 ## How to Play 🕹️
 1.Open the website.
 
